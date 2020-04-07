@@ -3,7 +3,7 @@
 body {
     padding:0px;
     margin:0px;
-    background:linear-gradient(0deg,rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("https://source.unsplash.com/user/erondu/1600x900") center center;
+    background:linear-gradient(0deg,rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("https://source.unsplash.com/daily") center center;
     background-size:cover;
     width:100vw;
     height:100vh;
