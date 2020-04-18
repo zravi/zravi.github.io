@@ -27,7 +27,7 @@ particlesJS('particles-js',
       }
     },
     "opacity": {
-      "value": 1,
+      "value": 5,
       "random": true,
       "anim": {
         "enable": true,
@@ -37,7 +37,7 @@ particlesJS('particles-js',
       }
     },
     "size": {
-      "value": 5,
+      "value": 9,
       "random": true,
       "anim": {
         "enable": false,
