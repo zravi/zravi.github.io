@@ -3,7 +3,7 @@
 body {
     padding:0px;
     margin:0px;
-    background:linear-gradient(0deg,rgba(0, 0, 0, 0.37),rgba(0, 0, 0, 0.356)),url("https://source.unsplash.com/1600x900/?nature,water,cars,photography") center center;
+    background:linear-gradient(0deg,rgba(0, 0, 0, 0.37),rgba(0, 0, 0, 0.356)),url("https://source.unsplash.com/1600x900/?nature,water,cars,photography,interiors,textures,patterns,wallpapers,technology,travel") center center;
     background-size:cover;
     width:100vw;
     height:100vh;
@@ -47,7 +47,7 @@ body {
     display:inline-block;
 }
 .box1 {
-    background:#11ac03;
+    background:hsl(0, 96%, 53%);
 }
 .box2 {
     background:#2606b4;
